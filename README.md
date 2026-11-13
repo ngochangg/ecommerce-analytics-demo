@@ -63,8 +63,6 @@ Dự án được xây dựng trên nền tảng Python với các thư viện c
 * **Cắt giảm CAC Mobile:** Giảm 50% thầu từ khóa không thương hiệu (Nonbrand) trên thiết bị di động do hiệu quả chuyển đổi thấp.
 * **Bảo vệ Desktop:** Dồn ngân sách để duy trì vị trí Top 1 tìm kiếm trên Desktop nhằm đảm bảo ROI.
 
----
 
-*Dự án được thực hiện bởi Tu Nguyen - Lead Xóm Data (Hanoi 2026)* 🖋️
 
 
